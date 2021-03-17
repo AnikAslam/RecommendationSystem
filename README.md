@@ -9,3 +9,5 @@ I used Collaborative filtering - Item Based approach,
 In this code I applied two approaches:
 1) Movies prediction on the basis of KNN 
 2) Movie Rating prediction using Pearson similarity and then Movies prediction.
+
+DataSet : [MovieLens Data](https://grouplens.org/datasets/movielens/)
